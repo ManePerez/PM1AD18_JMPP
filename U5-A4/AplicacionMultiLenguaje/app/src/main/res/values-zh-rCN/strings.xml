@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="descripcion">這是我的第一個多語言應用程序</string>
+    <string name="botonLike">像</string>
+    <string name="botonShare">分享</string>
+</resources>

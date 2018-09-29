@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplicacionMultiLenguaje</string>
+    <string name="descripcion">Esta es mi primer aplicacion multil-lenguaje</string>
+    <string name="botonLike">Me gusta!</string>
+    <string name="botonShare">Compartir!</string>
+</resources>
